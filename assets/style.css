@@ -29,6 +29,10 @@ body {
     text-align: center;
     border-radius: 15px;
   }
+
+  .time-hour {
+    border: none;
+  }
   
   .row {
     white-space: pre-wrap;
